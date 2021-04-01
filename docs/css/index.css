@@ -1,0 +1,7 @@
+* { padding: 0; margin: 0; }
+
+.vuep { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; height: initial; }
+
+.vuep-editor { width: 100%; margin-right: 0; }
+
+.vuep-preview { width: 100%; }
